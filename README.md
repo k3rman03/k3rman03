@@ -59,3 +59,5 @@ _(projects coming as I progress through Tech With Lucy and Angela Yu's Bootcamp)
 ---
 
 > “Cloud is the future. I'm not just learning it — I'm building it one project at a time.”
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=k3rman03&style=flat&color=blue)
