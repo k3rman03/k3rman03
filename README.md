@@ -15,8 +15,8 @@
 
 - ✅ Completed **Cisco Python Essentials 1 & 2**
 - 🔁 Currently doing **100 Days of Code – Python Bootcamp** by Angela Yu
-- 🧪 Building **10 AWS Projects (5 Cloud Practitioner + 5 Architect)** via *Tech with Lucy*
-- ⏳ Preparing for **AWS Cloud Practitioner certification** *(exam in 2 weeks)*
+- 🧪 Building **10 AWS Projects (5 beginners + 5 Intermediate)** via *Tech with Lucy*
+- ⏳ Preparing for **AWS Cloud Practitioner certification** & ** AWsS AI Practitioner**
 - 📌 Studying for **PSM (Professional Scrum Master)** to back my 8 years of PM experience
 
 ---
@@ -28,13 +28,14 @@
 - **Software Engineering:** Data structures & algorithms, OOP (C++), Python scripting
 - **Tools:** AWS Console, Git, Visual Studio Code, CLI, Jira, Docker (intro)
 - **Project Management:** Agile/Scrum, Jira, Trello, Asana
-- **Certifications Targeted:** AWS CCP → AWS SAA → PSM
+- **Certifications Targeted:** AWS CCP → AWS AIP → AWS SAA → PSM
 ---
 
 ### 📂 Featured Projects
 
+[🧠 Rekognition Image Labeling Project](https://github.com/k3rman03/AWS-Beginner-projects/tree/main/Rekognition)
 
-_(projects coming as I progress through Tech With Lucy and Angela Yu's Bootcamp)_
+_(more projects coming as I progress through Tech With Lucy and Angela Yu's Bootcamp)_
 
 ---
 
