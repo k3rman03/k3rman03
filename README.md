@@ -16,7 +16,7 @@
 - ✅ Completed **Cisco Python Essentials 1 & 2**
 - 🔁 Currently doing **100 Days of Code – Python Bootcamp** by Angela Yu
 - 🧪 Building **10 AWS Projects (5 beginners + 5 Intermediate)** via *Tech with Lucy*
-- ⏳ Preparing for **AWS Cloud Practitioner certification** & ** AWsS AI Practitioner**
+- ⏳ Preparing for **AWS Cloud Practitioner certification** & ** AWS AI Practitioner**
 - 📌 Studying for **PSM (Professional Scrum Master)** to back my 8 years of PM experience
 
 ---
