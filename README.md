@@ -44,7 +44,7 @@ _(more projects coming as I progress through Tech With Lucy and Angela Yu's Boot
 - 💻 2 years into Computer Science studies at Broward College/Transfer University 
   - Intro to C++  
   - Computer Programming with Python 
-- **AWS Cloud Practitioner** *(Scheduled for May 2025)*
+- **AWS Cloud Practitioner** *(in progress)*
 - **AWS Solutions Architect Associate** *(Next in line)*
 - **Professional Scrum Master** *(Coming Soon)*
 - **100 Days of Code: Python Bootcamp** – Ongoing
